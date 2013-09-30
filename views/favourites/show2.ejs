@@ -1,0 +1,5 @@
+
+    <form method= "POST" action= "/users/<%= session.user.id %>/favourites/<%= post.id %>" >
+    <input type= 'hidden' name= "_method" value= 'put'>
+    <input type= 'submit' value= "Añadir a favoritos">
+    </form>
