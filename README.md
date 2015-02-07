@@ -1,33 +1,3 @@
-# Proyecto CORE/SWCM
-
-Proyecto de la asignatura CORE 2012-2013
-
-## Temario
-
-* Tema 0: Introducción al Proyecto. Frameworks.
-
-* Tema 1: Crear el esqueleto de la aplicación.
-
-* Tema 2: Recurso Post.
-
-* Tema 3: Desplegar en Heroku.
-
-* Tema 4: Auto-load de Posts.
-
-* Tema 5: Mensajes Flash.
-
-* Tema 6: Recurso User.
-
-* Tema 7: Autenticación y Sesiones.
-
-* Tema 8: Relación 1-a-N ente User y Post.
-
-* Tema 9: Recurso Comentarios.
-
-* Tema 10: Recurso Adjuntos.
-
-* Tema 11: Twitter Bootstrap.
-
-* Tema 12: Paginación.
+Developed during my fourth course of Telecom Engineering Degree at ETSIT-UPM. The project is a Spanish blog about football, sport news… It was the final project of a subject, in which a classmate and I had to demonstrate our skills learned during the semester: JavaScript, HTML & CSS. To sum up, the blog is developed in JavaScript and HTML, and Bootstrap is used for style. It allows users to register, post, comment and favorite posts. Also, it includes media, visits counter and a search function. For development, I used Express (a node.js web framework), but the blog is currently deployed on the free version of Heroku:  http://blogeasports-final.herokuapp.com.
 
  
